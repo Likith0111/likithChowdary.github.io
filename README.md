@@ -1,47 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Shaw Talebi</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            text-align: center;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        img {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-        }
-        .downloads {
-            margin-top: 20px;
-        }
-        a {
-            text-decoration: none;
-            color: #0073e6;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="/assets/img/headshot_circle.png" alt="Shaw Talebi">
-        <h1>Shaw Talebi</h1>
-        <p>Welcome to my GitHub page!</p>
-        <div class="downloads">
-            <a href="#">Download Resume</a>
-        </div>
-    </div>
-</body>
-</html>
+# Likith Kancharla
+
+
+
+## Experience
+HCL Global System Inc – Software Engineer Intern                                                                           
+•	Applied Agile methodologies to collaborate with cross-functional teams, ensuring iterative development and continuous improvement of scalable solutions.
+•	Developed and optimized cloud-native applications, leveraging Kubernetes for efficient container orchestration.
+•	Built and maintained database management systems (DBMS), designing efficient PostgreSQL schemas and dashboards to monitor system performance.
+•	Debugged and resolved software issues, identifying and fixing critical bugs to enhance system stability.
+
+
+### Education
+Master's in Computer Science at University of Cincinnati
+Bachelor's in information Technology at Saveetha Engineering College
+
+
+
