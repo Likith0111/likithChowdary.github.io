@@ -1,4 +1,7 @@
-# Likith Kancharla
+# Software Developer
+
+I'm a Pursuing my Master's in Computer Science in University of Cincinnati with 3.8 GPA
+
 
 
 
@@ -11,8 +14,8 @@ HCL Global System Inc – Software Engineer Intern
 
 
 ### Education
-Master's in Computer Science at University of Cincinnati
-Bachelor's in information Technology at Saveetha Engineering College
+Master's in Computer Science at University of Cincinnati    Aug 2023 - May 2025
+Bachelor's in information Technology at Saveetha Engineering College July 2019 - June 2023
 
 
 
